@@ -3,7 +3,7 @@ package mturk_test
 import (
 	"github.com/shaunduncan/goamz/aws"
 	"github.com/shaunduncan/goamz/exp/mturk"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 )
 
 // Mechanical Turk REST authentication docs: http://goo.gl/wrzfn

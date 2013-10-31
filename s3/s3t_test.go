@@ -4,7 +4,7 @@ import (
 	"github.com/shaunduncan/goamz/aws"
 	"github.com/shaunduncan/goamz/s3"
 	"github.com/shaunduncan/goamz/s3/s3test"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 )
 
 type LocalServer struct {

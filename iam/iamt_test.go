@@ -4,7 +4,7 @@ import (
 	"github.com/shaunduncan/goamz/aws"
 	"github.com/shaunduncan/goamz/iam"
 	"github.com/shaunduncan/goamz/iam/iamtest"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 )
 
 // LocalServer represents a local ec2test fake server.

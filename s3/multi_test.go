@@ -5,7 +5,7 @@ import (
 	"io"
 	"io/ioutil"
 	"github.com/shaunduncan/goamz/s3"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 	"strings"
 )
 

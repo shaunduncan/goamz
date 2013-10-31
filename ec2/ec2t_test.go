@@ -10,7 +10,7 @@ import (
 	"github.com/shaunduncan/goamz/ec2"
 	"github.com/shaunduncan/goamz/ec2/ec2test"
 	"github.com/shaunduncan/goamz/testutil"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 )
 
 // LocalServer represents a local ec2test fake server.

@@ -11,7 +11,7 @@ import (
 	"github.com/shaunduncan/goamz/aws"
 	"github.com/shaunduncan/goamz/s3"
 	"github.com/shaunduncan/goamz/testutil"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 	"net"
 	"sort"
 	"time"

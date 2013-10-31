@@ -3,7 +3,7 @@ package s3_test
 import (
 	"github.com/shaunduncan/goamz/aws"
 	"github.com/shaunduncan/goamz/s3"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 )
 
 // S3 ReST authentication docs: http://goo.gl/G1LrK

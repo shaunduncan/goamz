@@ -4,7 +4,7 @@ import (
 	"github.com/shaunduncan/goamz/aws"
 	"github.com/shaunduncan/goamz/iam"
 	"github.com/shaunduncan/goamz/testutil"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 	"net/url"
 )
 

@@ -3,7 +3,7 @@ package testutil
 import (
 	"flag"
 	"github.com/shaunduncan/goamz/aws"
-	. "launchpad.net/gocheck"
+	. "github.com/shaunduncan/gocheck"
 )
 
 // Amazon must be used by all tested packages to determine whether to
